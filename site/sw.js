@@ -1,4 +1,4 @@
-const CACHE_NAME = "ssat-vocabulary-coach-v1";
+const CACHE_NAME = "ssat-vocabulary-coach-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
